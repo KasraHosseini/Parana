@@ -1,2 +1,3 @@
 # Parana
-Parana is a photography studio 
+## a photography studio
+Change the branch to see the developing versions.
